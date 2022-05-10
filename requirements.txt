@@ -1,0 +1,15 @@
+autopep8==1.6.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+idna==3.3
+numpy==1.21.5
+opencv-python==4.5.2.52
+Pillow==9.0.1
+pycodestyle==2.8.0
+requests==2.27.1
+toml==0.10.2
+torch==1.11.0+cu113
+torchaudio==0.11.0+cu113
+torchvision==0.12.0+cu113
+typing-extensions==4.1.1
+urllib3==1.26.9
